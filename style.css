@@ -1,0 +1,29 @@
+body {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.background {
+    text-align: center;
+}
+
+.info {
+    padding: 30px;
+}
+
+.prof-pic {
+    margin-top: 90px;
+    border-radius: 100%;
+}
+
+.testButton1 {
+    padding: 0;
+    margin: 10px;
+    overflow: hidden;
+    border-radius: 50%;
+    border-width: 0;
+}
+.soc-icon {
+    border-radius: inherit;
+    margin-bottom: -3.5px;
+}
